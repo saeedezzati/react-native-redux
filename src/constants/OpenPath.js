@@ -1,0 +1,1 @@
+export const openPath=['/home', '/career', '/about', '/start-here', '/privacy', '/terms', '/press', '/policies', '/blog', '/help', '/news', '/recent-games', '/live-games', '/upcoming-games', '/why-host', '/hosts', '/leaderboard', '/talents', '/agents']

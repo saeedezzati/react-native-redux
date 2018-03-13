@@ -1,0 +1,13 @@
+*.env
+*.todo
+
+/backend/.DS_Store
+/backend/__pycache__
+/backend/todo
+/backend/static
+
+/users/todo
+/users/__pycache__
+/users/__pycache__/*
+
+

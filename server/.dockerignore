@@ -1,0 +1,15 @@
+*.env
+*.todo
+
+/backend/.DS_Store
+/backend/__pycache__
+/backend/todo
+
+/player/todo
+/player/__pycache__
+/player/__pycache__/*
+
+/team/todo
+/team/__pycache__
+/team/__pycache__/*
+
